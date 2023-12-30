@@ -1,0 +1,8 @@
+node_modules/
+package-lock.json
+report/
+test-results/
+allure-report/
+allure-results/
+playwright-report/
+playwright/.cache/
