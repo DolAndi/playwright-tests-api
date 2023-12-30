@@ -1,4 +1,4 @@
-# playwright-tests-backend
+# playwright-tests-api
 
 This repository contains a comprehensive set of backend automated tests for the ServeRest API, accessible at https://serverest.dev/. Utilizing the powerful Playwright framework in combination with TypeScript, I've developed precise and efficient tests covering a wide range of API scenarios.
 
